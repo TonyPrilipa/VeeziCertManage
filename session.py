@@ -18,6 +18,10 @@ def write_html(html):
     file.close()
 
 
+def some_func(some_arg):
+    cos = 2
+    pass
+
 if __name__ == '__main__':
     html = vsg_login(URL)
 

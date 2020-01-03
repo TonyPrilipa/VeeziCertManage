@@ -1,0 +1,20 @@
+[
+  {
+    'voucherBarcode': '15020002',
+    'stockLocation': 'Odessa',
+    'issueDate': '2018-03-09T00:00:00',
+    'issuePrice': 8001.0,
+    'expiryDate': None,
+    'voucherStatus': 'Active',
+    'description': 'ODESOLD_150',
+    'voucherNumber': 2,
+    'voucherCode': '1502',
+    'lastUsedDate': None,
+    'currentValue': 80.01,
+    'stockIdSet': {
+      'voucherTypeId': 19,
+      'voucherNumber': 2,
+      'voucherDuplicateNo': 0
+    }
+  }
+]
